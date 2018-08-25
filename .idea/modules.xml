@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SparkQuickStart.iml" filepath="$PROJECT_DIR$/SparkQuickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleproject/simpleproject.iml" filepath="$PROJECT_DIR$/simpleproject/simpleproject.iml" />
     </modules>
   </component>
 </project>
